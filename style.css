@@ -1,0 +1,12 @@
+/* Este é um arquivo CSS. Usamos para "pintar" e "decorar" o HTML. */
+
+body {
+  background-color: #f0f8ff; /* Um fundo azul bem clarinho */
+  font-family: sans-serif;   /* Uma fonte mais moderna, sem serifa */
+  text-align: center;        /* Centraliza todo o texto */
+  color: #333;              /* Cor do texto um pouco mais suave que preto puro */
+}
+
+h1 {
+  color: #000080; /* Cor azul marinho para o título principal */
+}
