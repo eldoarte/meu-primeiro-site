@@ -1,7 +1,5 @@
 {
-      "projects": {
-            "default": "sistema-abrigo-usp-c2773"
-      }
-}
-      }
+  "projects": {
+    "default": "sistema-abrigo-usp-c2773"
+  }
 }
